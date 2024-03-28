@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 10k of salary per month
+- 📫 Communication
 - 😄 Pronouns: Bisimwa14
 - ⚡ Fun fact: <html/>
 
