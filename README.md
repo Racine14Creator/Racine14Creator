@@ -12,7 +12,6 @@
   console.log(name)
 </pre>
   
-```
 
-[![Sokheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Racine14Creator&show_icons=true&theme=radical)](https://github.com/chensokheng/github-readme-stats)
+[![Racine14Creator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Racine14Creator&show_icons=true&theme=radical)](https://github.com/chensokheng/github-readme-stats)
 
