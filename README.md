@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bisimwa✨</h1>
-<h3 align="center">A passionate Frontend developer from DRCongo</h3>
+<h3 align="center">A passionate Frontend developer from <span color="coral">Remote</span></h3>
 
 - 💬 Ask me about **React, Next.js**
 
